@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains builds of M2Crypto for Windows based on [this](https://github.com/iOSForensics/pymobiledevice/issues/25#issuecomment-576119104) instructions.
+This repository contains builds of M2Crypto for Windows based on [these](https://github.com/iOSForensics/pymobiledevice/issues/25#issuecomment-576119104) instructions.
 
 If you have build your own, send a Pull Request to integrate them here so we can help others too! 🙂 🚀
 
